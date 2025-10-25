@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "inStock": true,
+    "rating": 4.5,
+    "description": "Premium sound with industry-leading noise cancellation.",
+    "imageURL": "https://picsum.photos/seed/wireless-headphones/300/300"
+  },
+  {
+    "id": "prod-002",
+    "name": "Smart Home Hub",
+    "category": "Electronics",
+    "price": 89.00,
+    "inStock": true,
+    "rating": 4.2,
+    "description": "Central control for all your smart devices.",
+    "imageURL": "https://picsum.photos/seed/smart-home-hub/300/300"
+  },
+  {
+    "id": "prod-003",
+    "name": "1TB Portable SSD Drive",
+    "category": "Electronics",
+    "price": 119.99,
+    "inStock": true,
+    "rating": 4.8,
+    "description": "Blazing fast transfer speeds in a compact design.",
+    "imageURL": "https://picsum.photos/seed/portable-ssd-drive/300/300"
+  },
+  {
+    "id": "prod-004",
+    "name": "Organic Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 29.95,
+    "inStock": true,
+    "rating": 4.6,
+    "description": "Soft, durable, and sustainably sourced cotton.",
+    "imageURL": "https://picsum.photos/seed/organic-tshirt/300/300"
+  },
+  {
+    "id": "prod-005",
+    "name": "Digital Drawing Tablet",
+    "category": "Electronics",
+    "price": 250.00,
+    "inStock": false,
+    "rating": 4.1,
+    "description": "Pressure-sensitive stylus for digital artists.",
+    "imageURL": "https://picsum.photos/seed/drawing-tablet/300/300"
+  },
+  {
+    "id": "prod-006",
+    "name": "Stainless Steel Espresso Machine",
+    "category": "Home & Kitchen",
+    "price": 499.00,
+    "inStock": true,
+    "rating": 4.7,
+    "description": "Brew café-quality espresso at home.",
+    "imageURL": "https://picsum.photos/seed/espresso-machine/300/300"
+  },
+  {
+    "id": "prod-007",
+    "name": "Winter Parka Jacket",
+    "category": "Apparel",
+    "price": 180.00,
+    "inStock": true,
+    "rating": 4.5,
+    "description": "Waterproof, windproof, and insulated.",
+    "imageURL": "https://picsum.photos/seed/winter-parka-jacket/300/300"
+  },
+  {
+    "id": "prod-008",
+    "name": "Beginner's Yoga Mat",
+    "category": "Fitness & Outdoor",
+    "price": 25.99,
+    "inStock": true,
+    "rating": 4.1,
+    "description": "Non-slip surface and 6mm cushioning.",
+    "imageURL": "https://picsum.photos/seed/yoga-mat/300/300"
+  },
+  {
+    "id": "prod-009",
+    "name": "4K Ultra HD Smart TV (55 inch)",
+    "category": "Electronics",
+    "price": 799.99,
+    "inStock": false,
+    "rating": 4.9,
+    "description": "Stunning visuals and built-in streaming apps.",
+    "imageURL": "https://picsum.photos/seed/smart-tv/300/300"
+  },
+  {
+    "id": "prod-010",
+    "name": "Scented Soy Candle Set (3-pack)",
+    "category": "Home & Kitchen",
+    "price": 35.00,
+    "inStock": true,
+    "rating": 4.4,
+    "description": "Long-lasting, clean-burning soy wax.",
+    "imageURL": "https://picsum.photos/seed/scented-candles/300/300"
+  },
+  {
+    "id": "prod-011",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 129.00,
+    "inStock": true,
+    "rating": 4.7,
+    "description": "Tactile switches and customizable RGB lighting.",
+    "imageURL": "https://picsum.photos/seed/gaming-keyboard/300/300"
+  },
+  {
+    "id": "prod-012",
+    "name": "Professional Chef Knife Set (8 pieces)",
+    "category": "Home & Kitchen",
+    "price": 189.99,
+    "inStock": true,
+    "rating": 4.6,
+    "description": "High-carbon stainless steel blades.",
+    "imageURL": "https://picsum.photos/seed/chef-knife-set/300/300"
+  },
+  {
+    "id": "prod-013",
+    "name": "Durable Hiking Boots",
+    "category": "Fitness & Outdoor",
+    "price": 110.00,
+    "inStock": true,
+    "rating": 4.5,
+    "description": "Waterproof leather for rugged trails.",
+    "imageURL": "https://picsum.photos/seed/hiking-boots/300/300"
+  },
+  {
+    "id": "prod-014",
+    "name": "Hiking Backpack (50L)",
+    "category": "Fitness & Outdoor",
+    "price": 89.95,
+    "inStock": true,
+    "rating": 4.3,
+    "description": "Durable, water-resistant, and comfortable.",
+    "imageURL": "https://picsum.photos/seed/hiking-backpack-50L/300/300"
+  },
+  {
+    "id": "prod-015",
+    "name": "VR Gaming Headset",
+    "category": "Electronics",
+    "price": 499.00,
+    "inStock": false,
+    "rating": 4.6,
+    "description": "Immersive virtual reality experience.",
+    "imageURL": "https://picsum.photos/seed/vr-headset/300/300"
+  },
+  {
+    "id": "prod-016",
+    "name": "Minimalist Wall Clock",
+    "category": "Home & Kitchen",
+    "price": 45.99,
+    "inStock": true,
+    "rating": 4.0,
+    "description": "Silent sweeping motion and modern design.",
+    "imageURL": "https://picsum.photos/seed/minimalist-clock/300/300"
+  },
+  {
+    "id": "prod-017",
+    "name": "Performance Running Shorts",
+    "category": "Apparel",
+    "price": 45.00,
+    "inStock": true,
+    "rating": 4.7,
+    "description": "Lightweight and breathable for training.",
+    "imageURL": "https://picsum.photos/seed/running-shorts/300/300"
+  },
+  {
+    "id": "prod-018",
+    "name": "Merino Wool Socks (4-pack)",
+    "category": "Apparel",
+    "price": 32.00,
+    "inStock": true,
+    "rating": 4.7,
+    "description": "Warm, moisture-wicking, and comfortable.",
+    "imageURL": "https://picsum.photos/seed/wool-socks/300/300"
+  },
+  {
+    "id": "prod-019",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 75.00,
+    "inStock": true,
+    "rating": 4.3,
+    "description": "Powerful sound and IPX7 waterproof rating.",
+    "imageURL": "https://picsum.photos/seed/portable-speaker/300/300"
+  },
+  {
+    "id": "prod-020",
+    "name": "Rechargeable Headlamp",
+    "category": "Fitness & Outdoor",
+    "price": 35.00,
+    "inStock": true,
+    "rating": 4.2,
+    "description": "Essential for camping and night hikes.",
+    "imageURL": "https://picsum.photos/seed/rechargeable-headlamp/300/300"
+  },
+  {
+    "id": "prod-021",
+    "name": "Cast Iron Skillet (12-inch)",
+    "category": "Home & Kitchen",
+    "price": 39.95,
+    "inStock": true,
+    "rating": 4.8,
+    "description": "Pre-seasoned and ready for your kitchen.",
+    "imageURL": "https://picsum.photos/seed/cast-iron-skillet/300/300"
+  },
+  {
+    "id": "prod-022",
+    "name": "Insulated Travel Mug",
+    "category": "Home & Kitchen",
+    "price": 27.50,
+    "inStock": true,
+    "rating": 4.4,
+    "description": "Keeps drinks hot for 6 hours or cold for 12.",
+    "imageURL": "https://picsum.photos/seed/insulated-travel-mug/300/300"
+  },
+  {
+    "id": "prod-023",
+    "name": "Digital SLR Camera",
+    "category": "Electronics",
+    "price": 899.00,
+    "inStock": false,
+    "rating": 4.5,
+    "description": "High-resolution photos and 4K video.",
+    "imageURL": "https://picsum.photos/seed/dslr-camera/300/300"
+  },
+  {
+    "id": "prod-024",
+    "name": "Men's Classic Denim Jeans",
+    "category": "Apparel",
+    "price": 65.00,
+    "inStock": true,
+    "rating": 4.6,
+    "description": "Straight-fit, medium wash denim.",
+    "imageURL": "https://picsum.photos/seed/classic-denim-jeans/300/300"
+  },
+  {
+    "id": "prod-025",
+    "name": "Camping Tent (4-person)",
+    "category": "Fitness & Outdoor",
+    "price": 120.00,
+    "inStock": true,
+    "rating": 4.0,
+    "description": "Easy setup and weather-resistant.",
+    "imageURL": "https://picsum.photos/seed/camping-tent/300/300"
+  },
+  {
+    "id": "prod-026",
+    "name": "Cotton Crewneck Sweater",
+    "category": "Apparel",
+    "price": 40.00,
+    "inStock": true,
+    "rating": 4.9,
+    "description": "Comfortable and essential layering piece.",
+    "imageURL": "https://picsum.photos/seed/cotton-sweater/300/300"
+  },
+  {
+    "id": "prod-027",
+    "name": "Electric Kettle (Variable Temp)",
+    "category": "Home & Kitchen",
+    "price": 55.00,
+    "inStock": true,
+    "rating": 4.0,
+    "description": "Perfect for coffee and tea lovers.",
+    "imageURL": "https://picsum.photos/seed/electric-kettle/300/300"
+  },
+  {
+    "id": "prod-028",
+    "name": "Dumbbell Set (Adjustable)",
+    "category": "Fitness & Outdoor",
+    "price": 250.00,
+    "inStock": true,
+    "rating": 4.8,
+    "description": "Replaces multiple weights for home gym.",
+    "imageURL": "https://picsum.photos/seed/adjustable-dumbbell-set/300/300"
+  },
+  {
+    "id": "prod-029",
+    "name": "Non-Stick Baking Sheets (Set of 2)",
+    "category": "Home & Kitchen",
+    "price": 24.99,
+    "inStock": true,
+    "rating": 4.7,
+    "description": "Durable and easy to clean for all your baking needs.",
+    "imageURL": "https://picsum.photos/seed/baking-sheets-set-of-2/300/300"
+  },
+  {
+    "id": "prod-030",
+    "name": "Compact Drone with Camera",
+    "category": "Electronics",
+    "price": 350.00,
+    "inStock": true,
+    "rating": 4.6,
+    "description": "Easy to fly with 1080p video capture.",
+    "imageURL": "https://picsum.photos/seed/compact-drone/300/300"
+  }
+]
